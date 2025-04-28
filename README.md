@@ -11,7 +11,12 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4: 
 
 ## Program:
-
+```
+import numpy as np
+a=np.array([[3,2,5],[1,1,2],[3,3,6]])
+solution=np.linalg.matrix_rank(a)
+print(solution)
+```
 ## Output:
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
