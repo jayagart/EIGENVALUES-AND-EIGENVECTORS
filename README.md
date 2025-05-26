@@ -1,4 +1,6 @@
 # EIGENVALUES-AND-EIGENVECTORS
+## NAME: Jayagar.T
+## REG.NO: 212224220042
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
